@@ -1,4 +1,4 @@
-Victory Ma
+Victory (Victor) Ma
 
 St. Olaf College Class of 2026
 
