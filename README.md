@@ -1,7 +1,9 @@
 Victory Ma
 
 St. Olaf College Class of 2026
+
 Major: Computer Science 
+
 Concentration: Statistics and Data Science
 
 Email: ma8@stolaf.edu
