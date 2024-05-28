@@ -1,12 +1,14 @@
 Victory (Victor) Ma
 
-St. Olaf College Class of 2026
+St. Olaf College '26
 
 Major: Computer Science 
 
 Concentration: Statistics and Data Science
 
-Email: ma8@stolaf.edu
+Personal Email: victoryma23@gmail.com
+
+In my free time, I enjoy working out, cooking, and playing video games such as Minecraft.
 
 <!---
 VictoryMa8/VictoryMa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
