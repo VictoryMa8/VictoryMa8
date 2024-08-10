@@ -8,7 +8,7 @@ Concentration: Statistics and Data Science
 
 Personal Email: victoryma23@gmail.com
 
-In my free time, I enjoy working out, cooking, and playing video games such as Minecraft.
+In my free time, I enjoy working out, cooking, and playing video games such as Minecraft and Civilization.
 
 <!---
 VictoryMa8/VictoryMa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
