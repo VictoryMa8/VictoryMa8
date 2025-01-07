@@ -1,7 +1,9 @@
 Victory (Victor) Ma
 
 St. Olaf College '26
-Major: Computer Science 
+
+Major: Computer Science
+
 Concentration: Statistics and Data Science
 
 Personal Email: victoryma23@gmail.com
