@@ -2,7 +2,7 @@ Victory (Victor) Ma
 
 St. Olaf College '26
 
-Major: Computer Science
+Majors: Computer Science, History
 
 Concentration: Statistics and Data Science
 
