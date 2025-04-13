@@ -8,7 +8,7 @@ Concentration: Statistics and Data Science
 
 Personal Email: victoryma23@gmail.com
 
-In my free time, I enjoy weightlifting, reading history, cooking, and playing video games like Fallout and Civilization.
+In my free time, I enjoy weightlifting, reading history (Persian Empire, Byzantine Empire, etc.), cooking (I love pasta), and playing video games like Fallout and Civilization.
 
 <!---
 VictoryMa8/VictoryMa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
