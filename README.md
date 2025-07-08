@@ -1,14 +1,14 @@
 Victory (Victor) Ma
 
-St. Olaf College '26
+- St. Olaf College '26
 
-Majors: Computer Science, History
+- B.A. Computer Science, History
 
-Concentration: Statistics and Data Science
+- Concentration: Statistics and Data Science
 
-Personal Email: victoryma23@gmail.com
+- Email: victoryma23@gmail.com
 
-In my free time, outside of coding, I enjoy weightlifting, cooking, and reading history.
+In my free time, I enjoy weightlifting, cooking, and reading about ancient history.
 
 <!---
 VictoryMa8/VictoryMa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
