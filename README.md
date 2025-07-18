@@ -6,8 +6,6 @@ Victory (Victor) Ma
 
 - Concentration: Statistics and Data Science
 
-- Email: victoryma23@gmail.com
-
 In my free time, I enjoy weightlifting, cooking, and reading about ancient history.
 
 <!---
