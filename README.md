@@ -6,7 +6,7 @@ Victory Ma (he/him)
 
 - Concentration in Statistics and Data Science
 
-In my free time, I enjoy weightlifting, cooking, and reading about ancient history.
+In my free time, I enjoy weightlifting, cooking, and reading about history.
 
 Portfolio: https://victory-ma.com
 
