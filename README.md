@@ -8,7 +8,10 @@ Victory Ma (he/him)
 
 In my free time, I enjoy weightlifting, cooking, and reading about history.
 
-Portfolio: https://victory-ma.com
+**👨‍💻 Portfolio live at [victory-ma.com](https://victory-ma.com)**
+
+**🌍 Visit [vexillologists.com](https://vexillologists.com)!**
+
 
 Email: victoryma23@gmail.com
 
