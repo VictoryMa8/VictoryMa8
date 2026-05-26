@@ -1,8 +1,8 @@
 Victory Ma (he/him)
 
-- St. Olaf College '26
+- St. Olaf College '26 | Magna Cum Laude | Phi Alpha Theta
 
-- B.A. Computer Science, History
+- B.A. Computer Science and History
 
 - Concentration in Statistics and Data Science
 
@@ -12,8 +12,7 @@ In my free time, I enjoy weightlifting, cooking, and reading about history.
 
 **🌍 Visit [vexillologists.com](https://vexillologists.com)!**
 
-
-Email: victoryma23@gmail.com
+Email: victoryma@proton.me
 
 <!---
 VictoryMa8/VictoryMa8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
